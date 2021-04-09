@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.3](https://github.com/kufu/eslint-config-smarthr/compare/v5.0.2...v5.0.3) (2021-04-09)
+
+
+### Bug Fixes
+
+* add an immediate function to test semi colon config ([44358bd](https://github.com/kufu/eslint-config-smarthr/commit/44358bd43037ea1e63acd9540b99c33bc9c09a23))
+* apply eslint-config-prettier after typescript config ([dec908c](https://github.com/kufu/eslint-config-smarthr/commit/dec908c25a831affcd963f6da2894e566c43cfeb))
+* format ([c7cc868](https://github.com/kufu/eslint-config-smarthr/commit/c7cc8687608fbe04db14c2eede72ee223c76059d))
+* update snapshot ([97c4e0d](https://github.com/kufu/eslint-config-smarthr/commit/97c4e0df9fdf4b9878a84b8e01e6cff411f75bd8))
+
 ### [5.0.2](https://github.com/kufu/eslint-config-smarthr/compare/v5.0.1...v5.0.2) (2021-04-06)
 
 
